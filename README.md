@@ -1,4 +1,4 @@
-# communicability-sequence-entropy
+# communicability sequence entropy
 Communicability sequence entropy of complex networks
 
 Citation:
