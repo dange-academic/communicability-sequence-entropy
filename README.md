@@ -1,5 +1,6 @@
 # communicability sequence entropy
 The communicability sequence entropy of complex networks
 
-Citation:
+# Citation:
+
 Chen D, Shi D D, Qin M, et al. Complex network comparison based on communicability sequence entropy[J]. Physical Review E, 2018, 98(1): 012319.
